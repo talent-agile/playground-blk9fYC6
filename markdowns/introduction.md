@@ -16,7 +16,7 @@ When using binary operations, the right part is evaluated only if necessary.
 
 Recipe to insert an image
 
-![conditional]https://raw.githubusercontent.com/talent-agile/playground-blk9fYC6/master/images/conditional.png "sample image"
+![conditional](https://raw.githubusercontent.com/talent-agile/playground-blk9fYC6/master/images/conditional.png "sample image")
 
 Execution flow can be controlled using structures and branching conditions:
 
